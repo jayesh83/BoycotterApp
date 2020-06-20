@@ -1,5 +1,6 @@
 # Introducing Boycotter
-Boycotter is an andriod application let's you boycott Chinese apps from your mobile. It detects all the chinese apps, and also provides alternatives of that app which indeed are not originated/built in china.
+<img src="./Screenshots/logo.png" width="100" />
+Boycotter is an andriod application let's you boycott Chinese apps from your mobile. It detects all the chinese apps, and also provides alternatives of that app which indeed are not originated/built in china.<br /><br />
 
 <img src="./Screenshots/installed_apps_list.png" width="300" />   <img src="./Screenshots/view_alternatives.png" width="300" /> <img src="./Screenshots/uninstall.png" width="300" />   <img src="./Screenshots/share_score.png" width="300" />
 
